@@ -45,4 +45,10 @@
 </div>
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuyeonkyoung)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuyeonkyoung" alt="Top Languages" />
+  </a>
+</div>
+
