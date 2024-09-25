@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
