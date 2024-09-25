@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=228B22&width=435&lines=Backend+developer+in+progress;Never+finished%2C+always+improving+!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=228B22&width=800&lines=Backend+developer+in+progress;Never+finished%2C+always+improving+!!" alt="Typing SVG" /></a>
 </div>
 
 <br><br><br><br>
