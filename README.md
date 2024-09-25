@@ -1,5 +1,10 @@
 <!--타이틀 부분-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F790&center=true&vCenter=true&width=600&lines=Backend+Developer;Always+learning+new+things+!!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=68F790&center=true&vCenter=true&width=600&lines=Backend+Developer;Always+learning+new+things+!!" alt="Typing SVG" />
+  </a>
+</div>
+
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
