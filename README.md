@@ -1,6 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Always+learning+new+things+!!" alt="Typing SVG" />
+  </a>
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
