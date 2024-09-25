@@ -1,4 +1,4 @@
-<br><br>
+<br>
 
 <!--타이틀 부분-->
 <div align="center">
