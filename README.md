@@ -1,5 +1,3 @@
-<br>
-
 <!--타이틀 부분-->
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Backend+developer+in+progress;Never+finished%2C+always+improving+!!" alt="Typing SVG" /></a>
