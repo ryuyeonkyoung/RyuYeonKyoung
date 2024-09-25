@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=500&lines=Backend+developer+in+progress;Never+finished%2C+always+improving+!!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=228B22&center=true&vCenter=true&width=500&lines=Backend+developer;Never+finished%2C+always+improving+!!" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center"></h3>
 <div align="center">
