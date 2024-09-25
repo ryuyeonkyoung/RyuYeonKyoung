@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center"></h3>
 <div align="center">
