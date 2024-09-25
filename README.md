@@ -19,7 +19,7 @@
 <h3 align="center"></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 </div>
 
+<br>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -44,6 +45,8 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center">
