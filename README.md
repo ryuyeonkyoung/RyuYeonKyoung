@@ -29,3 +29,5 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuyeonkyoung)](https://github.com/anuraghazra/github-readme-stats)
