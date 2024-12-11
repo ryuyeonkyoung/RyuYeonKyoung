@@ -3,13 +3,18 @@
 
  <br><br>
 
- #
- ### ☕STACK
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
- <img src="https://img.shields.io/badge/Java-FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
- 
- <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
- <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+### ☕STACK
+#### Framework & Language
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Java-FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+
+#### ORM & Database
+<img src="https://img.shields.io/badge/MyBatis-000000.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JDBC-003B57.svg?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
+
+#### Additional Languages
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
  
  
  #
