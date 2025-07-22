@@ -1,25 +1,28 @@
+# 잔디먹는 뱀!!!!
+
 name: generate animation
 
 on:
-  # run automatically every 24 hours 
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    #24시간마다 한 번
+    - cron: "0 */24 * * *"
+
   # allows to manually run the job at any time
+  # 자동으로 action이 실행되도록 함
   workflow_dispatch:
-  
+
   # run on every push on the master branch
   push:
     branches:
-    - master
-    
-  
+      - master
+
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
