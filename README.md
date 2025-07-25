@@ -1,5 +1,7 @@
+<br>
+
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Backend+Developer;Never+finished%2C+always+improving!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=f3e5ab&center=true&vCenter=true&width=500&lines=Backend+Developer;Never+finished%2C+always+improving!" alt="Typing SVG" /></a>
 
 <br>
 
@@ -38,9 +40,11 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 
-<br><br><br>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuyeonkyoung&hide=contribs,prs&show_icons=true&theme=테마)
+#
+### ☁️ PROBLEM SOLVING
+![Programmers Badge](https://raw.githubusercontent.com/ryuyeonkyoung/Programmers_Badge_Generator/main/result/result.svg)
 
 
 </div>
