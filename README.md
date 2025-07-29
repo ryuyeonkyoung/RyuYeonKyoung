@@ -42,9 +42,7 @@
 
 <br>
 
-#
-### ☁️ PROBLEM SOLVING
-![Programmers Badge](https://raw.githubusercontent.com/ryuyeonkyoung/Programmers_Badge_Generator/main/result/result.svg)
+<img src="https://github.com/ryuyeonkyoung/ryuyeonkyoung/blob/output/github-contribution-grid-snake.svg">
 
 
 </div>
