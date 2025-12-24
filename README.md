@@ -43,13 +43,13 @@
 <br>
 <br>
 
-<!-- <img src="https://github.com/ryuyeonkyoung/ryuyeonkyoung/blob/output/github-contribution-grid-snake.svg"> -->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ryuyeonkyoung&utm_content=farm">
-<img
+<img src="https://github.com/ryuyeonkyoung/ryuyeonkyoung/blob/output/github-contribution-grid-snake.svg">
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ryuyeonkyoung&utm_content=farm"> -->
+<!-- <img
   src="https://render.gitanimals.org/farms/ryuyeonkyoung"
   width="600"
   height="300"
-/>
+/> -->
 </a>
 
 </div>
